@@ -11,12 +11,15 @@
   solids:
     FoodBreadPlainSlice: 1
     FoodSnackChocolateBar: 1
+  recipeType:
+  - Oven
+  - Microwave
 
 - type: microwaveMealRecipe
   id: RecipeFancyTiramisu
   name: Fancy Tiramisu recipe
   result: FoodBakedFancyTiramisu
-  time: 5
+  time: 10
   group: Dessert
   reagents:
     Coffee: 15
@@ -24,3 +27,4 @@
   solids:
     FoodBakedMuffin: 2
     FoodSnackChocolateBar: 1
+  recipeType: Oven
