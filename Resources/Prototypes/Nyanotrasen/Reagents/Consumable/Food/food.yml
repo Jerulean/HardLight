@@ -11,14 +11,14 @@
       - !type:Vomit
         probability: 0.9
         conditions:
-        - !type:ReagentCondition
+        - !type:ReagentThreshold # HardLight: ReagentCondition<ReagentThreshold
           reagent: Nausium
           min: 5
-      - !type:PopupMessage
-        type: Local
-        messages: [ "disease-sick-stomach" ]
-        probability: 0.25
-        conditions:
-        - !type:ReagentCondition
-          reagent: Nausium
-          min: 2.5
+#      - !type:PopupMessage   # HardLight - source never defined the below message
+#        type: Local
+#        messages: [ "disease-sick-stomach" ]
+#        probability: 0.25
+#        conditions:
+#        - !type:ReagentThreshold # HardLight: ReagentCondition<ReagentThreshold
+#          reagent: Nausium
+#          min: 2.5
