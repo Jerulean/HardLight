@@ -126,13 +126,20 @@
       - DrinkTheMartinez
       - DrinkMoonshineGlass
       - LemonLimeBittersGlass # DeltaV
-      # Begin Den additions
+      # Begin DeltaV additions
+      - LemonLimeBittersGlass
+      - OldFashionedGlass
+      - MnatsaCollinsGlass
+      - AffogatoGlass
+      - FiveOClockGlass
+    # End DeltaV additions    
+    # Begin Den additions
       - DrinkSurferGlass
       - DrinkPopQuizGlass
       - DrinkCafeCocktailGlass
       - DrinkCinnamonCookieGlass
       - DrinkInsideScoopGlass
-    # End Den additions
+      # End Den additions
     chance: 0.8
     offset: 0.0
     #rare

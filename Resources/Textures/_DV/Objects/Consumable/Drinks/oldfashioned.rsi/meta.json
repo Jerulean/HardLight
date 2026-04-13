@@ -1,14 +1,12 @@
 {
     "version": 1,
-    "size":
-    {
+    "size": {
         "x": 32,
         "y": 32
     },
     "license": "CC-BY-SA-3.0",
-    "copyright": "Made by RedBookcase on Github. Edited by Verybigman311 to be less opaque.",
-    "states":
-    [
+    "copyright": "Glass by Hanzdegloker on Github. Fill levels by Verybigman311",
+    "states": [
         {
             "name": "icon"
         },

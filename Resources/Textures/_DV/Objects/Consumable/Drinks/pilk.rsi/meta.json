@@ -1,14 +1,12 @@
 {
     "version": 1,
-    "size":
-    {
+    "size": {
         "x": 32,
         "y": 32
     },
     "license": "CC-BY-SA-3.0",
-    "copyright": "Made by RedBookcase on Github. Edited by Verybigman311 to be less opaque.",
-    "states":
-    [
+    "copyright": "Made by Verybigman311",
+    "states": [
         {
             "name": "icon"
         },
@@ -29,6 +27,9 @@
         },
         {
             "name": "fill-5"
+        },
+        {
+            "name": "fill-6"
         }
     ]
 }
