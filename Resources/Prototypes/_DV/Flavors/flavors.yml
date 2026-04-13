@@ -110,3 +110,8 @@
   id: arsonistsbrew
   flavorType: Complex
   description: flavor-complex-arsonistsbrew
+
+- type: flavor
+  id: doubleicecream
+  flavorType: Complex
+  description: flavor-complex-double-ice-cream
