@@ -55,6 +55,7 @@
     DrinkDisposableCup: 5 # #imp
     JugCaramexinin: 1 # Frontier ## Hardlight: Why was this emag only.
     DrinkRootBeerJug: 2 # Coyote
+    DrinkAngobittersBottleFull: 3 # DeltaV - Angostura Bitters Bottle
   contrabandInventory:
     ChemistryBottleEthanol: 3
     DrinkBottleOfNothingFull: 1
