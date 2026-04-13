@@ -77,4 +77,7 @@ flavor-complex-jenntonic = sweet with a hidden bite
 flavor-complex-hallelujah = a moment of peace
 flavor-complex-walnut = like walnuts
 flavor-complex-despair = despair
+flavor-complex-syndicate-eggnog = like eggnog, and war profiteering
+flavor-complex-ginandpussy = like wet pussy, with extra gin
+flavor-complex-pussytonic = like pussy, but with tonic
 flavor-complex-blooddrop = crimson lust
