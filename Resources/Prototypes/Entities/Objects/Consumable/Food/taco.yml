@@ -34,7 +34,7 @@
     nameGeneration: food-sequence-taco-gen
     contentSeparator: ", "
   - type: Appearance
-  
+
 # Old tacos
 
 - type: entity
@@ -176,7 +176,7 @@
     flavors:
     - meaty
     - spicy
-  - type: Edible
+  - type: Food # HardLight - changed from edible
   - type: Sprite
     state: dragontaco
   - type: SolutionContainerManager
