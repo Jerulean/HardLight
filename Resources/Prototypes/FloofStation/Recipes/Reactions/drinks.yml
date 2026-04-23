@@ -835,30 +835,29 @@
   products:
     Hallelujah : 6
 
-# HardLight - oh we don't have that reagent.
-#- type: reaction
-#  id: GinandPussy
-#  requiredMixerCategories:
-#  - Shake
-#  reactants:
-#    Gin:
-#      amount: 1
-#    NaturalLubricant:
-#      amount: 2
-#  products:
-#    GinandPussy: 3
-#
-#- type: reaction
-#  id: PussyTonic
-#  requiredMixerCategories:
-#  - Shake
-#  reactants:
-#    TonicWater:
-#      amount: 1
-#    NaturalLubricant:
-#      amount: 1
-#  products:
-#    PussyTonic: 2
+- type: reaction
+  id: GinandPussy
+  requiredMixerCategories:
+  - Shake
+  reactants:
+    Gin:
+      amount: 1
+    Cum: # HardLight - Natural Lube isn't a reagent, so this was suggested instead
+      amount: 2
+  products:
+    GinandPussy: 3
+
+- type: reaction
+  id: PussyTonic
+  requiredMixerCategories:
+  - Shake
+  reactants:
+    TonicWater:
+      amount: 1
+    Cum: # HardLight - Natural Lube isn't a reagent, so this was suggested instead
+      amount: 1
+  products:
+    PussyTonic: 2
 
 - type: reaction
   id: MillerMargarita
