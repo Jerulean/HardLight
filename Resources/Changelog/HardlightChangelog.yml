@@ -3862,3 +3862,9 @@ Entries:
         red/blue/purple. Affects only the local viewer.
   id: 413
   time: '2026-05-13T09:18:30.0000000+00:00'
+- author: Illumos
+  changes:
+    - type: Fix
+      message: Maybe hopefully fix the manifest
+  id: 414
+  time: '2026-05-13T09:28:12.0000000+00:00'
