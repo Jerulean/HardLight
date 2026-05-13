@@ -3868,3 +3868,11 @@ Entries:
       message: Maybe hopefully fix the manifest
   id: 414
   time: '2026-05-13T09:28:12.0000000+00:00'
+- author: fenndragon
+  changes:
+    - type: Remove
+      message: Removed nullphase/shadekin changes
+    - type: Remove
+      message: 'temporarily removed the Anomaly job role '
+  id: 415
+  time: '2026-05-13T09:29:56.0000000+00:00'
